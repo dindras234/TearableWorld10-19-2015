@@ -1,0 +1,60 @@
+{"frames": {
+
+"Ground.png":
+{
+	"frame": {"x":2,"y":2,"w":800,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":50},
+	"sourceSize": {"w":800,"h":50}
+},
+"Platform.png":
+{
+	"frame": {"x":804,"y":2,"w":100,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":25},
+	"sourceSize": {"w":100,"h":25}
+},
+"Player.png":
+{
+	"frame": {"x":906,"y":2,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+},
+"Stick_figure.png":
+{
+	"frame": {"x":2,"y":54,"w":118,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":222},
+	"sourceSize": {"w":118,"h":222}
+},
+"boat.png":
+{
+	"frame": {"x":122,"y":54,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"test.png":
+{
+	"frame": {"x":380,"y":54,"w":250,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":255},
+	"sourceSize": {"w":250,"h":255}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "test.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ce0d9cbf071210d14ef80980bab86122$"
+}
+}
