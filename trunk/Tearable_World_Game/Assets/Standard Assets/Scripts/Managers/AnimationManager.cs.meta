@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: f4de7bb45fc5cbb44a4927b727d90a2f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - walk1: {fileID: 2800000, guid: 62d0b437dc9683c44a6647f58d9bcd6e, type: 3}
+  - walk2: {fileID: 2800000, guid: 24a7c8c97642eee4d8adcf1b613d7a80, type: 3}
+  - walk3: {fileID: 2800000, guid: 0c5689e7b5626ff44a8e75cf4a82a759, type: 3}
+  - walk4: {fileID: 2800000, guid: ff8fbb7cbd6db524fb793140bd080e0c, type: 3}
+  - walk5: {fileID: 2800000, guid: 4cbb14ca7d7934b44a016b02116c646b, type: 3}
+  - walk6: {fileID: 2800000, guid: a79ffea0cfcc6f94ebf313fbd3b87498, type: 3}
+  - walk7: {fileID: 2800000, guid: 8d171665446eb9a4680422ec68612b2c, type: 3}
+  - walk8: {fileID: 2800000, guid: 26d88ff8cba85404d8a56e7684fc4ffe, type: 3}
+  - walk9: {fileID: 2800000, guid: b556ba935e534ef4e9f7d9c327398989, type: 3}
+  - walk10: {fileID: 2800000, guid: 0914f84451a768440b007aface5eab2b, type: 3}
+  - walk11: {fileID: 2800000, guid: 40da5296a42bfbe48b89701cc6d07c71, type: 3}
+  - jump1: {fileID: 2800000, guid: b3cf2eb33f112e346bdefc97bffc32c9, type: 3}
+  - jump2: {fileID: 2800000, guid: 291a131d9753e5d4682785ed7699f318, type: 3}
+  - jump3: {fileID: 2800000, guid: a94b6033ff5ca9c4bb047e793bd6de63, type: 3}
+  - jump4: {fileID: 2800000, guid: bad9b97c7c8a5014b9b5a72ffa3776b8, type: 3}
+  - jump5: {fileID: 2800000, guid: de878cb04f0e89f40b90a6cc90559161, type: 3}
+  - jump6: {fileID: 2800000, guid: a3216092c6a633546a485f7072b6fd34, type: 3}
+  - jump7: {fileID: 2800000, guid: c924c85b65d299d4a9b9dbe64e03c2dd, type: 3}
+  - jump8: {fileID: 2800000, guid: d9bde8c267a58ef4295dfd2671b21c08, type: 3}
+  - jump9: {fileID: 2800000, guid: 2b4760bf3a5f366429fb169cd45b373f, type: 3}
+  - jump10: {fileID: 2800000, guid: 7a8f26f362ac817469814c24c1868d85, type: 3}
+  - jump11: {fileID: 2800000, guid: 849d88fe1da4f824f8d40e2c0a4f039a, type: 3}
+  - jump12: {fileID: 2800000, guid: 0111531535a4e5e4dbd49edb72e4e71d, type: 3}
+  - jump13: {fileID: 2800000, guid: 209ccced0731b5b438b92bdc4f5aa2fc, type: 3}
+  - jump14: {fileID: 2800000, guid: aebb95eda00cf314c9ff7101d3b6c4c6, type: 3}
+  - jump15: {fileID: 2800000, guid: dce6b1bd590c72045a013aae193f4c05, type: 3}
+  - jump16: {fileID: 2800000, guid: a1d5d77ffbc9afe458e6b1ba6ccc98a6, type: 3}
+  - jump17: {fileID: 2800000, guid: ed2d2fb1ed412a54b8cddb648eeeeb0a, type: 3}
+  - idle1: {fileID: 2800000, guid: 65cc60e86d572854fb6bff3b5782fe71, type: 3}
+  - idle2: {fileID: 2800000, guid: fe73759453d658a44942f953853ad703, type: 3}
+  - idle3: {fileID: 2800000, guid: 87106d5733b4b2a4b8b515fcb74fd00e, type: 3}
+  - idle4: {fileID: 2800000, guid: 7f48798d2544d3c47bc9a7378d8173bc, type: 3}
+  - idle5: {fileID: 2800000, guid: 9274f506f07527f4a8f1169ce052bb49, type: 3}
+  - idle6: {fileID: 2800000, guid: 744bdd197c12c244ab80000b391b2a25, type: 3}
+  - stand: {fileID: 2800000, guid: 65cc60e86d572854fb6bff3b5782fe71, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

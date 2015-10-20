@@ -1,0 +1,6 @@
+hat_wiggle = 0 0 500 800
+hat_wiggle2 = 501 0 500 800
+hat_wiggle3 = 1002 0 500 800
+hat_wiggle4 = 1503 0 500 800
+hat_wiggle5 = 0 801 500 800
+hat_wiggle6 = 501 801 500 800
